@@ -45,4 +45,4 @@ class PoemService {
   }
 }
 
-export default new PoemService();
+export default new PoemService().getInstance();

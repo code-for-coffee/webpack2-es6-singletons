@@ -13,6 +13,7 @@
   },
   "name": "webpack2-es6-singletons",
   "dependencies": {
+    "lodash": "^4.17.4",
     "proxy-observe": "^0.0.21"
   }
 }
